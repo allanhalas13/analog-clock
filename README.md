@@ -21,4 +21,4 @@ To use or edit this code on your device:
 
 O funcionamento é o básico de front-end. A aplicação foi criada com HTML, CSS e Javascript.
 
-**_Seja criativo!!!_**
+**_Seja criativo!!!_** 😃😃😃
