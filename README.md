@@ -1,6 +1,8 @@
 # Analogic Clock
 
-Essa aplicatição irá criar um relógio analógico local.
+Essa aplicatição irá criar um relógio analógico local, conforme imagem abaixo.
+
+![Analog Clock](./img_test.png)
 
 ## What you need
 
